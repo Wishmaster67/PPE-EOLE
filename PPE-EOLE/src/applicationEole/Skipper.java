@@ -1,5 +1,7 @@
 package applicationEole;
 
 public class Skipper {
-	/**test**/
+	int id;
+	String nom;
+	String prenom;
 }
